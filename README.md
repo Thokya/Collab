@@ -8,4 +8,4 @@ This project uses :
 
  In order to run the project clone the repository
  cd Collab
-and run - npm start# Collab
+and run - npm start
